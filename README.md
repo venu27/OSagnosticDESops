@@ -20,7 +20,6 @@ Please do the following STEPS to document your installation of SageMath on your 
 3. STEP 2: You main task is to document the steps you took to install SageMath the easy way from binaries or the harder way from source on your local machine, by following the guidelines in:
     - [https://github.com/datascience-intro/how2_MacOSX_2SageMath-2021](https://github.com/datascience-intro/how2_MacOSX_2SageMath-2021)
     - [https://github.com/datascience-intro/how2_WindowsOS10-\_2SageMath-2021](https://github.com/datascience-intro/how2_WindowsOS10-_2SageMath-2021)
-     - more details for Windows should be available soon as issues arise; or follow discussion threads form your course mates
     - You may either document using markdown by editing this `README.md` file in your fork of this repository by simply writing down the steps you took to install SageMath
     - Or give a URL to another repository that documents your installation steps in detail
     - The main expectation is that you should be able to install SageMath on your local machine a lot faster by following the instructions you have given
