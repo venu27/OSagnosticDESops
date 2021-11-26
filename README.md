@@ -1,6 +1,6 @@
 # OSagnosticDESops
 
-This is a repository for instructions on how to do Operating System Agnostic Data Engineering Science Operations
+This is a repository for instructions on how to do Operating System Agnostic Data Engineering Science Operations, especially for students of Mathematics, Computer Science, Statistics, Data Science and Data Engineering.
 
 ## Problem 0, Individual Assignment 3
 
