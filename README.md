@@ -25,3 +25,4 @@ Please do the following STEPS to document your installation of SageMath on your 
     - The main expectation is that you should be able to install SageMath on your local machine a lot faster by following the instructions you have given
  
 Further instructions, if needed, will follow shortly after the computer labs in Angstrom are tested. Please discuss in threads at the course instructure page so you can learn from one another.
+ https://doc.sagemath.org/html/en/installation/binary.html#linux
